@@ -1,0 +1,5 @@
+{
+  "name": "Tauri DMG Customizer Pro",
+  "description": "A comprehensive guide and interactive configuration tool for designing beautiful, custom macOS DMG installers with Tauri.",
+  "requestFramePermissions": []
+}
